@@ -42,19 +42,19 @@ This privacy notice for Outleveled Games ("**Company**," "**we**," "**us**," or 
 
   
 
-**How do you process my information?** We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Click [here](#infouse) to learn more.
+**How do you process my information?** We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. See Below to learn more.
 
   
 
-**In what situations and with which types of parties do we share personal information?** We may share information in specific situations and with specific categories of third parties. Click [here](#whoshare) to learn more.
+**In what situations and with which types of parties do we share personal information?** We may share information in specific situations and with specific categories of third parties. See Below to learn more.
 
   
 
-**How do we keep your information safe?** We have organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Click [here](#infosafe) to learn more.
+**How do we keep your information safe?** We have organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. See Below to learn more.
 
   
 
-**What are your rights?** Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Click [here](#privacyrights) to learn more.
+**What are your rights?** Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. See Below to learn more.
 
   
 
@@ -62,7 +62,7 @@ This privacy notice for Outleveled Games ("**Company**," "**we**," "**us**," or 
 
   
 
-Want to learn more about what Outleveled Games does with any information we collect? Click [here](#toc) to review the notice in full.
+Want to learn more about what Outleveled Games does with any information we collect? See Below to review the notice in full.
 
   
 
@@ -136,7 +136,7 @@ We collect personal information that you voluntarily provide to us when you regi
 
   
 
-**Social Media Login Data.** We may provide you with the option to register with us using your existing social media account details, like your Facebook, Twitter, or other social media account. If you choose to register in this way, we will collect the information described in the section called "[HOW DO WE HANDLE YOUR SOCIAL LOGINS?](#sociallogins)" below.
+**Social Media Login Data.** We may provide you with the option to register with us using your existing social media account details, like your Facebook, Twitter, or other social media account. If you choose to register in this way, we will collect the information described in the section called "HOW DO WE HANDLE YOUR SOCIAL LOGINS?" below.
 
   
 
@@ -206,7 +206,7 @@ _**If you are located in the EU or UK, this section applies to you.**_
 
 The General Data Protection Regulation (GDPR) and UK GDPR require us to explain the valid legal bases we rely on in order to process your personal information. As such, we may rely on the following legal bases to process your personal information:
 
-*   **Consent.** We may process your information if you have given us permission (i.e., consent) to use your personal information for a specific purpose. You can withdraw your consent at any time. Click [here](#withdrawconsent) to learn more.
+*   **Consent.** We may process your information if you have given us permission (i.e., consent) to use your personal information for a specific purpose. You can withdraw your consent at any time. Contact us to learn more.
 
 *   **Performance of a Contract.** We may process your personal information when we believe it is necessary to fulfill our contractual obligations to you, including providing our Services or at your request prior to entering into a contract with you.
 
@@ -221,7 +221,7 @@ The General Data Protection Regulation (GDPR) and UK GDPR require us to explain 
 
   
 
-We may process your information if you have given us specific permission (i.e., express consent) to use your personal information for a specific purpose, or in situations where your permission can be inferred (i.e., implied consent). You can withdraw your consent at any time. Click [here](#withdrawconsent) to learn more.
+We may process your information if you have given us specific permission (i.e., express consent) to use your personal information for a specific purpose, or in situations where your permission can be inferred (i.e., implied consent). You can withdraw your consent at any time. Contact us to learn more.
 
   
 
@@ -365,7 +365,7 @@ We do not knowingly solicit data from or market to children under 18 years of ag
 
   
 
-In some regions (like the EEA, UK, and Canada), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; and (iv) if applicable, to data portability. In certain circumstances, you may also have the right to object to the processing of your personal information. You can make such a request by contacting us by using the contact details provided in the section "[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#contact)" below.
+In some regions (like the EEA, UK, and Canada), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; and (iv) if applicable, to data portability. In certain circumstances, you may also have the right to object to the processing of your personal information. You can make such a request by contacting us by using the contact details provided in the section "HOW CAN YOU CONTACT US ABOUT THIS NOTICE?" below.
 
   
 
@@ -379,7 +379,7 @@ If you are located in Switzerland, the contact details for the data protection a
 
   
 
-**Withdrawing your consent:** If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section "[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#contact)" below.
+**Withdrawing your consent:** If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section "HOW CAN YOU CONTACT US ABOUT THIS NOTICE?" below.
 
   
 
