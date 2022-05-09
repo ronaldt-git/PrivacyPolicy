@@ -60,7 +60,7 @@ This privacy notice for Outleveled Games ("**Company**," "**we**," "**us**," or 
 
   
 
-**How do I exercise my rights?** The easiest way to exercise your rights is by filling out our data subject request form available [here](https://app.termly.io/notify/b8e14ecc-7c18-4a38-9136-c1eb1676712d), or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
+**How do I exercise my rights?** The easiest way to exercise your rights is by contacting us via email or, by filling out our data subject request form available [here](https://app.termly.io/notify/b8e14ecc-7c18-4a38-9136-c1eb1676712d) (You will need to type in the correct website name for the form to work. We recommend emailing us instead). We will consider and act upon any request in accordance with applicable data protection laws.
 
   
 
