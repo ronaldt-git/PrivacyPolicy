@@ -26,11 +26,11 @@ This privacy notice for Outleveled Games ("**Company**," "**we**," "**us**," or 
 
   
 
-**_This summary provides key points from our privacy notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our table of contents below to find the section you are looking for. You can also click_** [**_here_**](#toc) **_to go directly to our table of contents._**
+**_This summary provides key points from our privacy notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our table of contents below to find the section you are looking for._**
 
   
 
-**What personal information do we process?** When you visit, use, or navigate our Services, we may process personal information depending on how you interact with Outleveled Games and the Services, the choices you make, and the products and features you use. Click [here](#personalinfo) to learn more.
+**What personal information do we process?** When you visit, use, or navigate our Services, we may process personal information depending on how you interact with Outleveled Games and the Services, the choices you make, and the products and features you use. See Below to learn more.
 
   
 
